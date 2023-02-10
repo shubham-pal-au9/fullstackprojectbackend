@@ -1,0 +1,6 @@
+{
+    "mongoURI":"mongodb+srv://rajatbhatt123:rajatbhatt123@cluster0.hdttm.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret":"thisismysecurewebtoken",
+    "emailUser":"n0931939@gmail.com",
+    "password": "123456@@"
+}
